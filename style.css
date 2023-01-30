@@ -259,3 +259,233 @@ line-height: 29px;
 text-align: center;
 
 }
+
+.box1{
+    
+position: absolute;
+width: 758px;
+height: 150px;
+left: 392px;
+top: 30px;
+
+background: #D1FDCA;
+border-radius: 50px;
+
+position: absolute;
+width: 749px;
+height: 150px;
+left: 392px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight:bold;
+font-size: 25px;
+line-height: 150px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.name{
+    position: absolute;
+width: 23px;
+height: 24px;
+left: 369px;
+top: 222px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.surname{
+    position: absolute;
+width: 68px;
+height: 4px;
+left: 663px;
+top: 227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.prinum{
+    position: absolute;
+width: 237px;
+height: 115px;
+left: 917px;
+top: 225px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.job{
+    position: absolute;
+width: 45px;
+height: 24px;
+left: 1298px;
+top: 227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.boxname{
+    
+position: absolute;
+width: 273px;
+height: 55px;
+left: 353px;
+top: 259px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.boxsurname{
+    position: absolute;
+width: 273px;
+height: 55px;
+left: 646px;
+top: 259px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.boxprinum{
+    position: absolute;
+width: 273px;
+height: 55px;
+left: 962px;
+top: 259px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.listjob{
+    position: absolute;
+width: 100px;
+height: 40px;
+left: 1290px;
+top: 259px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.regemail{
+    position: absolute;
+width: 60px;
+height: 24px;
+left: 369px;
+top: 340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.boxemail{
+    position: absolute;
+width: 273px;
+height: 55px;
+left: 353px;
+top: 369px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.phone{
+    position: absolute;
+width: 150px;
+height: 24px;
+left: 663px;
+top: 340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxphone{
+position: absolute;
+width: 273px;
+height: 55px;
+left: 646px;
+top: 369px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.year{
+    position: absolute;
+width: 50px;
+height: 48px;
+left: 969px;
+top: 335px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxyear{
+    position: absolute;
+width: 273px;
+height: 55px;
+left: 952px;
+top: 364px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
