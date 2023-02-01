@@ -1,0 +1,182 @@
+.tapon{
+    position: absolute;
+width: 1139px;
+height: 105px;
+left: 388px;
+top: -32px;
+
+background: #1C5713;
+
+
+}
+
+.intapon{
+    position: absolute;
+width: 700px;
+height: 36px;
+left: 250px;
+top: 45px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FDF9F9;
+}
+
+.maintap{
+    position: absolute;
+width: 414px;
+height: 128px;
+left: 0px;
+top: -21.5px;
+
+background: #1C5713;
+border-radius: 25px; 
+}
+
+.inmaintap{
+    position: absolute;
+width: 181px;
+height: 36px;
+left: 110px;
+top: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #ffffff;
+
+}
+
+.smain{
+    position: absolute;
+width: 414px;
+height: 1024px;
+left: 0px;
+top: 17px;
+
+background: #CEFFCA;
+}
+
+.regcard{
+    position: absolute;
+width: 220px;
+height: 36px;
+left: 30px;
+top: 212px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.private{
+    position: absolute;
+width: 154px;
+height: 36px;
+left: 40px;
+top: 304px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.showcard{
+    position: absolute;
+width: 350px;
+height: 36px;
+left: 20px;
+top: 395px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.history{
+    position: absolute;
+width: 158px;
+height: 36px;
+left: 40px;
+top: 493px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.newlib{
+    position: absolute;
+width: 148px;
+height: 36px;
+left: 40px;
+top: 584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+
+.endtap{
+    position: absolute;
+width: 414px;
+height: 118px;
+left: 1px;
+top: 940px;
+
+background: #1C5713;
+border-radius: 25px;
+
+}
+.inend{
+    position: absolute;
+width: 200px;
+height: 48px;
+left: 100px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #ffffff;
+}
