@@ -1,0 +1,443 @@
+.box1{
+    
+    position: absolute;
+    width: 758px;
+    height: 150px;
+    left: 392px;
+    top: 30px;
+    
+    background: #D1FDCA;
+    border-radius: 50px;
+    
+    position: absolute;
+    width: 749px;
+    height: 150px;
+    left: 392px;
+    top: 42px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight:bold;
+    font-size: 25px;
+    line-height: 150px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+
+    .name{
+        position: absolute;
+    width: 23px;
+    height: 24px;
+    left: 369px;
+    top: 222px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    
+    .surname{
+        position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 663px;
+    top: 227px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    
+    .prinum{
+        position: absolute;
+    width: 237px;
+    height: 115px;
+    left: 917px;
+    top: 225px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    
+    .job{
+        position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 1298px;
+    top: 227px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    
+    .boxname{
+        
+    position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 353px;
+    top: 259px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .boxsurname{
+        position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 646px;
+    top: 259px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .boxprinum{
+        position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 962px;
+    top: 259px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .listjob{
+        position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 1290px;
+    top: 259px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+
+    .regemail{
+        position: absolute;
+    width: 60px;
+    height: 24px;
+    left: 369px;
+    top: 340px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    
+    .boxemail{
+        position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 353px;
+    top: 369px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .phone{
+        position: absolute;
+    width: 150px;
+    height: 24px;
+    left: 663px;
+    top: 340px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    .boxphone{
+    position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 646px;
+    top: 369px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .year{
+        position: absolute;
+    width: 50px;
+    height: 48px;
+    left: 969px;
+    top: 335px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    .boxyear{
+        position: absolute;
+    width: 273px;
+    height: 55px;
+    left: 952px;
+    top: 364px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    .locals{
+        position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 80px;
+    top: 490px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    }
+    
+    .numhome{
+        position: absolute;
+    width: 90px;
+    height: 24px;
+    left: 180px;
+    top: 514px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    .boxnumhome{
+        position: absolute;
+    width: 117px;
+    height: 52px;
+    left: 171px;
+    top: 550px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .moo{
+        position: absolute;
+        width: 25px;
+        height: 24px;
+        left: 340px;
+        top: 514px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    
+    .boxmoo{
+        position: absolute;
+    width: 117px;
+    height: 52px;
+    left: 322px;
+    top: 550px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+    }
+    
+    .road{
+        position: absolute;
+        width: 37px;
+        height: 24px;
+        left: 485px;
+        top: 514px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        
+        color: #000000;
+        
+    }
+    
+    .boxroad{
+        position: absolute;
+        width: 199px;
+        height: 60px;
+        left: 473px;
+        top: 542px;
+        
+        background: rgba(217, 217, 217, 0.5);
+        border-radius: 25px;
+    }
+    
+    .district{
+        position: absolute;
+        width: 50px;
+        height: 24px;
+        left: 706px;
+        top: 514px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        
+        color: #000000;
+        
+    }
+    
+    .boxdistrict{
+        position: absolute;
+        width: 199px;
+        height: 60px;
+        left: 697px;
+        top: 542px;
+        
+        background: rgba(217, 217, 217, 0.5);
+        border-radius: 25px;
+    }
+    
+    .county{
+        position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 929px;
+    top: 509px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    .boxcounty{
+        position: absolute;
+        width: 199px;
+        height: 60px;
+        left: 919px;
+        top: 542px;
+        
+        background: rgba(217, 217, 217, 0.5);
+        border-radius: 25px;
+    }
+    
+    .province{
+        position: absolute;
+        width: 56px;
+        height: 24px;
+        left: 180px;
+        top: 637px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        
+        color: #000000;
+        
+    }
+    
+    .boxprovince{
+        position: absolute;
+        width: 199px;
+        height: 60px;
+        left: 171px;
+        top: 667px;
+        
+        background: rgba(217, 217, 217, 0.5);
+        border-radius: 25px;
+    }
+    
+    .zipcode{
+        position: absolute;
+        width: 120px;
+        height: 24px;
+        left: 418px;
+        top: 637px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    
+    .boxzipcode{
+        position: absolute;
+        width: 199px;
+        height: 60px;
+        left: 405px;
+        top: 667px;
+        
+        background: rgba(217, 217, 217, 0.5);
+        border-radius: 25px;
+    }    
