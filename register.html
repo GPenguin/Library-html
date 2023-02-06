@@ -11,7 +11,19 @@
       <div class="box1">สมัครสมาชิกสำนักงานบริการจัดการทรัพยากรการเรียนรู้</div>
 
       <div>
-
+        <form action="upload.js" method="get" enctype="multipart/form-data" class="form-horizontal">
+ 
+			<div class="form-group"><div class="size">
+                                    300*300
+                                </div>
+                                <br>
+			                     <img  id="showimg" alt="" width="300" height="300" class="img">
+			                </div>
+			                    <div class="">
+			                        <input type="file" class="cho"  id="showimg" name="showimg" accept="image/png, image/jpeg" onchange="preview_image(event)">
+			                    </div>
+			                
+			</form>
         <form action="#">
             <Label class="name" for="name">ชื่อ</Label><br><br>
             <input class="boxname" type="text" id="name" name="name"><br><br>
@@ -48,7 +60,33 @@
             <input class="boxprovince" type="text" id="province" name="province"><br><br>
             <Label class="zipcode" for="zipcode">รหัสไปรษณีย์</Label><br><br>
             <input class="boxzipcode" type="text" id="zipcode" name="zipcode"><br><br>
-
+            <form action="#">
+                <input type="checkbox" id="tests" name="test" value="contin" class="ckcon">
+                <label for="test" class="con">ที่อยู่ตามที่อยู่บัตรประชาชน</label>
+                <input type="checkbox" id="tests" name="test" value="contin" class="ckcn">
+                <label for="test" class="cn">ที่อยู่ปัจจุบัน</label>
+            </form>
+            <Label class="cnhome" for="cnhome">บ้านเลขที่</Label><br><br>
+            <input class="boxcnhome" type="text" id="cnhome" name="cnhome"><br><br>
+            <Label class="cnmoo" for="cnmoo">หมู่</Label><br><br>
+            <input class="boxcnmoo" type="text" id="cnmoo" name="cnmoo"><br><br>
+            <Label class="cnroad" for="cnroad">ถนน</Label><br><br>
+            <input class="boxcnroad" type="text" id="cnroad" name="cnroad"><br><br>
+            <Label class="cndistrict" for="cndistrict">อำเภอ</Label><br><br>
+            <input class="boxcndistrict" type="text" id="cndistrict" name="cndistrict"><br><br>
+            <Label class="cncounty" for="cncounty">เขต</Label><br><br>
+            <input class="boxcncounty" type="text" id="cncounty" name="cncounty"><br><br>
+            <Label class="cnprovince" for="cnprovince">จังหวัด</Label><br><br>
+            <input class="boxcnprovince" type="text" id="cnprovince" name="cnprovince"><br><br>
+            <Label class="cnzipcode" for="cnzipcode">รหัสไปรษณีย์</Label><br><br>
+            <input class="boxcnzipcode" type="text" id="cnzipcode" name="cnzipcode"><br><br>
+            <form action="#">
+                <input type="checkbox" id="tests" name="test" value="contin" class="ckacp">
+                <label for="test" class="acp">ยินยอมในการเก็บข้อมูล</label>
+            </form>
+            <button class="btnreg" type="button">สมัครสมาชิก</button>
       </div>
+
+      <script src="js/upload.js"></script>
 </body>
 </html>

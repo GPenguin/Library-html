@@ -441,3 +441,326 @@
         background: rgba(217, 217, 217, 0.5);
         border-radius: 25px;
     }    
+
+.con{
+    position: absolute;
+width: 300px;
+height: 26px;
+left: 173px;
+top: 768px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.ckcon{
+    position: absolute;
+width: 24px;
+height: 28px;
+left: 171px;
+top: 762px;
+
+background: #D9D9D9;
+}
+
+.cn{
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 498px;
+    top: 768px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.ckcn{
+    position: absolute;
+width: 24px;
+height: 28px;
+left: 458px;
+top: 762px;
+
+background: #D9D9D9;
+}
+
+.cnhome{
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 181px;
+top: 859px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcnhome{
+    position: absolute;
+    width: 117px;
+    height: 52px;
+    left: 172px;
+    top: 895px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+}
+
+.cnmoo{
+    position: absolute;
+width: 25px;
+height: 24px;
+left: 341px;
+top: 859px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcnmoo{
+    position: absolute;
+width: 117px;
+height: 52px;
+left: 323px;
+top: 895px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.cnroad{
+    position: absolute;
+width: 37px;
+height: 24px;
+left: 486px;
+top: 859px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcnroad{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 474px;
+top: 887px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.cndistrict{
+    position: absolute;
+width: 50px;
+height: 24px;
+left: 707px;
+top: 859px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcndistrict{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 698px;
+top: 887px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;    
+}
+
+.cncounty{
+    position: absolute;
+width: 45px;
+height: 24px;
+left: 930px;
+top: 854px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcncounty{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 920px;
+top: 887px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.cnprovince{
+    position: absolute;
+width: 56px;
+height: 24px;
+left: 181px;
+top: 982px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcnprovince{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 172px;
+top: 1012px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.cnzipcode{
+    position: absolute;
+width: 110px;
+height: 24px;
+left: 419px;
+top: 982px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxcnzipcode{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 406px;
+top: 1012px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.ckacp{
+position: absolute;
+width: 24px;
+height: 28px;
+left: 181px;
+top: 1116px;
+
+background: #D9D9D9;
+}
+.acp{
+    position: absolute;
+    width: 210px;
+    height: 26px;
+    left: 209px;
+    top: 1122px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.btnreg{
+    position: absolute;
+width: 375.5px;
+height: 79px;
+left: 583px;
+top: 1240px;
+
+background: rgba(206, 255, 202, 0.5);
+border-radius: 20px;
+cursor: pointer;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #1C5713;
+}
+
+.img{
+    position: absolute;
+width: 218px;
+height: 309px;
+left: 80px;
+top: 77px;
+}
+
+.cho{
+    position: absolute;
+width: 300px;
+height: 43px;
+left: 119px;
+top: 409px;
+
+}
+
+.size{
+    position: absolute;
+width: 23px;
+height: 24px;
+left: 160px;
+top: 47px;
+}
