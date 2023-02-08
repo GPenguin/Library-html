@@ -93,3 +93,20 @@ top: -24px;
 
 background: #1C5713;
 }
+
+.left{
+    position: absolute;
+width: 160px;
+height: 48px;
+left: 114px;
+top: 951px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
