@@ -7,6 +7,22 @@
     <title>ข้อมูลส่วนตัว</title>
 </head>
 <body>
-    
+    <div class="box1">สมัครสมาชิกสำนักงานบริการจัดการทรัพยากรการเรียนรู้</div>
+
+    <div>
+      <form action="upload.js" method="get" enctype="multipart/form-data" class="form-horizontal">
+
+          <div class="form-group"><div class="size">
+                                  รูปขนาด 300*300
+                              </div>
+                              <br>
+                              <br>
+                               <img  id="showimg" alt="" width="300" height="300" class="img">
+                          </div>
+                              <div class="">
+                                  <input type="file" class="cho"  id="showimg" name="showimg" accept="image/png, image/jpeg" onchange="preview_image(event)">
+                              </div>
+                          
+          </form>
 </body>
 </html>
