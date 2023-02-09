@@ -110,3 +110,20 @@ text-align: center;
 
 color: #000000;
 }
+
+.size{
+    position: absolute;
+width: 200px;
+height: 24px;
+left: 100px;
+top: 20px;
+}
+
+.cho{
+    position: absolute;
+width: 200px;
+height: 52px;
+left: 100px;
+top: 360px;
+}
+
