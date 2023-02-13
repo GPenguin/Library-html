@@ -115,15 +115,452 @@ color: #000000;
     position: absolute;
 width: 200px;
 height: 24px;
-left: 100px;
+left: 200px;
 top: 20px;
 }
 
 .cho{
     position: absolute;
-width: 200px;
-height: 52px;
-left: 100px;
-top: 360px;
+width: 300px;
+height: 30px;
+left: 200px;
+top: 350px;
 }
 
+.img{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 200px;
+    top: 77px;
+    }
+
+.name{
+    position: absolute;
+width: 120px;
+height: 29px;
+left: 507px;
+top: 217px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.boxname{
+    position: absolute;
+width: 164px;
+height: 60px;
+left: 507px;
+top: 265px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.surname{
+    position: absolute;
+    width: 137px;
+    height: 29px;
+    left: 718px;
+    top: 217px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+
+.boxsurname{
+    position: absolute;
+width: 164px;
+height: 60px;
+left: 704px;
+top: 265px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.card{
+    position: absolute;
+    width: 190px;
+    height: 29px;
+    left: 910px;
+    top: 30px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    
+    color: #000000;
+}
+
+.boxcard{
+    position: absolute;
+width: 335px;
+height: 60px;
+left: 909px;
+top: 265px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.prinum{
+    position: absolute;
+width: 200px;
+height: 29px;
+left: 507px;
+top: 363px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.boxprinum{
+    position: absolute;
+width: 335px;
+height: 60px;
+left: 507px;
+top: 411px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.year{
+    position: absolute;
+width: 70px;
+height: 29px;
+left: 927px;
+top: 363px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.boxyear{
+    position: absolute;
+width: 155px;
+height: 60px;
+left: 909px;
+top: 411px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.job{
+    position: absolute;
+width: 54px;
+height: 29px;
+left: 1112px;
+top: 363px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.boxjob{
+    position: absolute;
+width: 155px;
+height: 60px;
+left: 1098px;
+top: 411px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.email{
+    position: absolute;
+width: 72px;
+height: 58px;
+left: 507px;
+top: 488px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.boxemail{
+    position: absolute;
+width: 335px;
+height: 60px;
+left: 500px;
+top: 528px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.phone{
+    position: absolute;
+    width: 150px;
+    height: 58px;
+    left: 927px;
+    top: 488px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+.boxphone{
+    position: absolute;
+width: 335px;
+height: 60px;
+left: 909px;
+top: 528px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 30px;
+}
+
+.numhome{
+    position: absolute;
+width: 112px;
+height: 26px;
+left: 514px;
+top: 725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxnumhome{
+    position: absolute;
+width: 99px;
+height: 44px;
+left: 521px;
+top: 766px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.moo{
+    position: absolute;
+width: 45px;
+height: 20px;
+left: 663px;
+top: 725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.boxmoo{
+    position: absolute;
+width: 99px;
+height: 44px;
+left: 660px;
+top: 766px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.road{
+    position: absolute;
+width: 55px;
+height: 20px;
+left: 799px;
+top: 724px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxroad{
+    position: absolute;
+width: 148px;
+height: 45px;
+left: 799px;
+top: 766px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.district{
+    position: absolute;
+width: 88px;
+height: 20px;
+left: 972px;
+top: 725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxdistrict{
+    position: absolute;
+width: 163px;
+height: 49px;
+left: 987px;
+top: 766px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.county{
+    position: absolute;
+width: 100px;
+height: 20px;
+left: 500px;
+top: 850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.boxcounty{
+    position: absolute;
+width: 172px;
+height: 51px;
+left: 514px;
+top: 891px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}
+
+.province{
+    position: absolute;
+width: 92px;
+height: 20px;
+left: 740px;
+top: 850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.boxprovince{
+    position: absolute;
+    width: 168px;
+    height: 50px;
+    left: 740px;
+    top: 892px;
+    
+    background: rgba(217, 217, 217, 0.5);
+    border-radius: 25px;
+}
+
+.zipcode{
+    position: absolute;
+width: 144px;
+height: 20px;
+left: 943px;
+top: 850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.boxzipcode{
+    position: absolute;
+width: 167px;
+height: 50px;
+left: 945px;
+top: 891px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 25px;
+}

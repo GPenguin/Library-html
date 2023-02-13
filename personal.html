@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/stylespersonal.css">
-    <link rel="stylesheet" href="css/stylespersonal.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
 
@@ -19,10 +18,55 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Style -->
-    <link rel="stylesheet" href="css/style.css">
     <title>ข้อมูลส่วนตัว</title>
 </head>
 <body>
+  <div class="nav">
+    <form action="upload.js" method="get" enctype="multipart/form-data" class="form-horizontal">
+
+        <div class="form-group"><div class="size">
+                            </div>
+                            <br>
+                            <br>
+                             <img  id="showimg" alt="" width="250" height="250" class="img">
+                             <input type="file" class="cho"  id="showimg" name="showimg" accept="image/png, image/jpeg" onchange="preview_image(event)">
+                        </div>
+                           
+                        
+        </form>
+        <div>
+          <Label class="name" for="name">ชื่อ</Label><br><br>
+          <input class="boxname" type="text" id="name" name="name"><br><br>
+          <Label class="surname" for="surname">นามสกุล</Label><br><br>
+          <input class="boxsurname" type="text" id="surname" name="surname"><br><br>
+          <Label class="card" for="card">สมาชิกบัตรประเภท</Label><br><br>
+          <input class="boxcard" type="text" id="card" name="card"><br><br>
+          <Label class="prinum" for="prinum">เลขบัตรประชาชน</Label><br><br>
+          <input class="boxprinum" type="text" id="prinum" name="prinum"><br><br>
+          <Label class="year" for="year">ปีเกิด</Label><br><br>
+          <input class="boxyear" type="text" id="year" name="year"><br><br>
+          <Label class="job" for="job">อาชีพ</Label><br><br>
+          <input class="boxjob" type="text" id="job" name="job"><br><br>
+          <Label class="email" for="email">E-mail</Label><br><br>
+          <input class="boxemail" type="text" id="email" name="email"><br><br>
+          <Label class="phone" for="phone">เบอร์โทรศัพท์</Label><br><br>
+          <input class="boxphone" type="text" id="phone" name="phone"><br><br>
+          <Label class="numhome" for="numhome">บ้านเลขที่</Label><br><br>
+          <input class="boxnumhome" type="text" id="numhome" name="numhome"><br><br>
+          <Label class="moo" for="moo">หมู่</Label><br><br>
+          <input class="boxmoo" type="text" id="moo" name="moo"><br><br>
+          <Label class="road" for="road">ถนน</Label><br><br>
+          <input class="boxroad" type="text" id="road" name="road"><br><br>
+          <Label class="district" for="district">อำเภอ</Label><br><br>
+          <input class="boxdistrict" type="text" id="district" name="district"><br><br>
+          <Label class="county" for="county">เขต</Label><br><br>
+          <input class="boxcounty" type="text" id="county" name="county"><br><br>
+          <Label class="province" for="province">จังหวัด</Label><br><br>
+          <input class="boxprovince" type="text" id="province" name="province"><br><br>
+          <Label class="zipcode" for="zipcode">รหัสไปรษณีย์</Label><br><br>
+          <input class="boxzipcode" type="text" id="zipcode" name="zipcode"><br><br>
+
+        </div>
     <aside class="sidebar">
         <div class="toggle">
           <a href="#" class="burger js-menu-toggle" data-toggle="collapse" data-target="#main-navbar">
@@ -52,21 +96,7 @@
         </div>
       </aside>
 
-    <div class="nav">
-      <form action="upload.js" method="get" enctype="multipart/form-data" class="form-horizontal">
-
-          <div class="form-group"><div class="size">
-                                  รูปขนาด 300*300
-                              </div>
-                              <br>
-                              <br>
-                               <img  id="showimg" alt="" width="300" height="300" class="img">
-                          </div>
-                              <div class="">
-                                  <input type="file" class="cho"  id="showimg" name="showimg" accept="image/png, image/jpeg" onchange="preview_image(event)">
-                              </div>
-                          
-          </form>
+  
         
 
           <script src="js/upload.js"></script>
