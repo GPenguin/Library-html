@@ -1,0 +1,90 @@
+.textnormalcard{
+    position: absolute;
+    width: 651px;
+    height: 287px;
+    left: 442px;
+    top: 509px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.textprecard{
+    position: absolute;
+width: 651px;
+height: 287px;
+left: 442px;
+top: 189px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.normalcard{
+    position: absolute;
+left: 24.79%;
+right: 69.89%;
+top: 28.22%;
+bottom: 65.23%;
+
+background: #000000;
+}
+
+.precard{
+   
+    position: absolute;
+left: 24.79%;
+right: 69.89%;
+top: 70.21%;
+bottom: 23.24%;
+
+background: #000000;
+}
+
+.btncard{
+    position: absolute;
+width: 408px;
+height: 87px;
+left: 564px;
+top: 709px;
+
+background: #CEFFCA;
+border-radius: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+}
+
+.take{
+    position: absolute;
+width: 1040px;
+height: 294px;
+left: 250px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
